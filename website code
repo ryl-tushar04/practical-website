@@ -45,7 +45,7 @@
         }
 
         .hero {
-            background-image: url("C:/Users/HP/Downloads/Far-Out-1500x500-1.jpg");
+            background-image: url(Far-Out-1500x500-1.jpg);
             height: 400px;
             background-size: cover;
             background-position: center;
@@ -211,10 +211,10 @@
 
     <script>
         const products = [
-    { id: 1, name: "Trendy Jacket", price: 7999, image: "C:\\Users\\HP\\Downloads\\B-15 Bomber Jacket + Patches __ Olive (L).jpeg" },
-    { id: 2, name: "Stylish Sunglasses", price: 3999, image: "C:\\Users\\HP\\Downloads\\Women Sunglasses.jpeg" },
-    { id: 3, name: "Classic Shoes", price: 5999, image: "C:\\Users\\HP\\Downloads\\Handbags, Accessories - Item no 1 818 545.jpeg" },
-    { id: 4, name: "Leather Handbag", price: 8999, image: "C:\\Users\\HP\\Downloads\\OFF-GRID CROSS WP+.jpeg" }
+    { id: 1, name: "Trendy Jacket", price: 7999, image: "B-15 Bomber Jacket + Patches __ Olive (L).jpeg" },
+    { id: 2, name: "Stylish Sunglasses", price: 3999, image: "Women Sunglasses.jpeg" },
+    { id: 3, name: "Classic Shoes", price: 5999, image: "OFF-GRID CROSS WP+.jpeg" },
+    { id: 4, name: "Leather Handbag", price: 8999, image: "Handbags, Accessories - Item no 1 818 545.jpeg" }
 ];
 
         const cart = [];
